@@ -12,8 +12,8 @@ gem 'yajl-ruby', '1.1.0', :require => 'yajl'
 gem "jquery-rails", "1.0.19"
 
 group :assets do
-  gem 'sass-rails', "~> 3.2.5"
-  gem 'coffee-rails', "~> 3.2.1"
+  gem 'sass-rails', '~> 3.2.5'
+  gem 'coffee-rails', '~> 3.2.2'
   gem 'uglifier'
   gem "yui-compressor"
 end
